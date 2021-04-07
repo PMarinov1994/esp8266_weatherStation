@@ -1,0 +1,1 @@
+ssid=[psk]&psk=[psk]&mqtt=192.168.200.105&mqttPort=1883&measure=15&sensorType=0
