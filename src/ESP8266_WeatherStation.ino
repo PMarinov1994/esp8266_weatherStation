@@ -31,7 +31,7 @@
 
 // FileSystem headers
 #include <FS.h>
-#include <LITTLEFS.h>
+#include <LittleFS.h>
 
 // Project headers
 #include "ConfigurationManager.h"

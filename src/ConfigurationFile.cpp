@@ -1,5 +1,5 @@
 #include "ConfigurationFile.h"
-#include <LITTLEFS.h>
+#include <LittleFS.h>
 
 CConfigurationFile::~CConfigurationFile()
 {

@@ -1,5 +1,5 @@
 #include "ConfigurationManager.h"
-#include <LITTLEFS.h>
+#include <LittleFS.h>
 
 /*
 *	\brief Initialize the component
